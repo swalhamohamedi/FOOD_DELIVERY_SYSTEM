@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1780852508,
+        "customer": {
+            "name": "omahe marwa",
+            "phone": "0754765643",
+            "address": "mwanza mahina"
+        },
+        "items": {
+            "2": {
+                "name": "Ugali Na Dagaa",
+                "price": "6000",
+                "quantity": 1
+            }
+        },
+        "total": "6000",
+        "status": "pending",
+        "order_date": "2026-06-07 19:15:08"
+    },
+    {
+        "id": 1780952796,
+        "customer": {
+            "name": "omahe marwa",
+            "phone": "0754765643",
+            "address": "wewe ni ww"
+        },
+        "items": {
+            "2": {
+                "name": "Ugali Na Dagaa",
+                "price": "1000",
+                "quantity": 1
+            }
+        },
+        "total": "1000",
+        "status": "pending",
+        "order_date": "2026-06-08 23:06:36"
+    }
+]
